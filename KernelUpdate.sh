@@ -1,4 +1,4 @@
-#!/bash/bin
+#!/bin/sh
 echo "Running update and upgrade..."
 apt-get update
 apt-get upgrade -y
